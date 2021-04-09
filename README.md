@@ -3,10 +3,10 @@
  In MVVM Architecture
 
 ## Notable Libraries
-Pager 3
-ViewModel
-Databinding
-Corutines(A litle)
-Retrofit
-OkHttp
-Gson
+* Pager 3
+* ViewModel
+* Databinding
+* Corutines(A litle)
+* Retrofit
+* OkHttp
+* Gson
