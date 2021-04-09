@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">StarFiles</string>
+    <string name="name_label">Name</string>
+    <string name="height_label">Height</string>
+    <string name="mass_label">Mass</string>
+    <string name="birth_label">Birth Year</string>
+    <string name="gender_label">Gender</string>
+    <string name="skin_color_label">Skin Color</string>
+    <string name="species_label">Specie</string>
+    <string name="starship_label">Starships</string>
+    <string name="eye_color_label">Eye Color</string>
+    <string name="vehicles_label">Birth Year</string>
+    <string name="search">Search</string>
+</resources>
